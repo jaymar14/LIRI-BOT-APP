@@ -1,0 +1,69 @@
+User Command: node liri.js movie-this baby driver
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Baby Driver
+Year Released: 28 Jun 2017
+IMBD Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country Produced: UK, USA
+Language: English, American Sign Language
+Plot: Baby is a young and partially hearing impaired getaway driver who can make any wild move while in motion with the right track playing. It's a critical talent he needs to survive his indentured servitude to the crime boss, Doc, who values his role in his meticulously planned robberies. However, just when Baby thinks he is finally free and clear to have his own life with his new girlfriend, Deborah, Doc coerces him back for another job. Now saddled with a crew of thugs too violently unstable to keep to Doc's plans, Baby finds himself and everything he cares for in terrible danger. To survive and escape the coming maelstrom, it will take all of Baby's skill, wits and daring, but even on the best track, can he make it when life is forcing him to face the music?
+Actors: Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"I Want it That Way"
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js spotify-this-song
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js spotify-this-songthunder
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js spotify-this-songThunder
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js movie-this American Made
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Made
+Year Released: 29 Sep 2017
+IMBD Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Spanish
+Plot: The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.
+Actors: Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons
+
+User Command: node liri.js movie-this American Made
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Made
+Year Released: 29 Sep 2017
+IMBD Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Spanish
+Plot: The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.
+Actors: Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons
+
